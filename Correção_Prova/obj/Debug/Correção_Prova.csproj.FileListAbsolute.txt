@@ -1,0 +1,7 @@
+C:\Users\31829430\source\repos\Correção_Prova\Correção_Prova\bin\Debug\Correção_Prova.exe.config
+C:\Users\31829430\source\repos\Correção_Prova\Correção_Prova\bin\Debug\Correção_Prova.exe
+C:\Users\31829430\source\repos\Correção_Prova\Correção_Prova\bin\Debug\Correção_Prova.pdb
+C:\Users\31829430\source\repos\Correção_Prova\Correção_Prova\obj\Debug\Correção_Prova.csprojAssemblyReference.cache
+C:\Users\31829430\source\repos\Correção_Prova\Correção_Prova\obj\Debug\Correção_Prova.csproj.CoreCompileInputs.cache
+C:\Users\31829430\source\repos\Correção_Prova\Correção_Prova\obj\Debug\Correção_Prova.exe
+C:\Users\31829430\source\repos\Correção_Prova\Correção_Prova\obj\Debug\Correção_Prova.pdb
